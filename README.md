@@ -1,3 +1,9 @@
+apt-get install libcurl4-openssl-dev libssl-dev zlib1g-dev libpcap-dev
+cd hcxtools/
+make
+sudo make install
+
+
 hcxtools
 ==============
 
